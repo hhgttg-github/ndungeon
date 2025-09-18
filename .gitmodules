@@ -1,0 +1,3 @@
+[submodule "ndungeon"]
+	path = ndungeon
+	url = git@github.com:hhgttg-github/ndungeon.git
